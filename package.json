@@ -1,0 +1,21 @@
+{
+  "name": "dark-greenish",
+  "displayName": "Dark-Greenish",
+  "description": "A dark green theme for vs code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Greenish",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Greenish-color-theme.json"
+      }
+    ]
+  }
+}
